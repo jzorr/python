@@ -11,3 +11,4 @@ while i < len(colors):
     print('this %d color is %s' % (i, colors[i]))
     i = i + 1
 
+print()
